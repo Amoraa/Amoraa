@@ -23,7 +23,7 @@ Software:
 
 Databases: 
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,MySQL,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 <!--
 **Amoraa/Amoraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
