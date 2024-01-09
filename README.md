@@ -1,11 +1,11 @@
 # Hi there 👋
 My name is **Tatiana Kashcheeva**, I am a 6th-semester student in the Honours Bachelor of Technology – Software Development program at Seneca Polytechnic, currently looking for a Co-op job for my WIL semester 
 
-I am a passionate student interested in fields like Data Structures and Algorithms, Frontend and Backend development, UI/UX design.
+I am a passionate student interested in fields like Data Structures and Algorithms, Frontend and Backend development, and UI/UX design. I have a strong academic background, a GPA of 4.0. I am also very creative, result-oriented, and easy to adapt to change. I am ready to face the challenges of learning new skills.
 
 I am working on a group project using Next js, Tailwind, Typescript, MongoDB, and Postgres.
 
-I am currently learning AI fundamentals with a Codecademy course as I feel that it is the future of the world and I want to keep up
+Also, I am currently learning AI fundamentals with a Codecademy course as I feel that it is the future of the world and I want to keep up. When it comes to college I am studying how to make mobile applications with React Native. Other courses that I am taking are Design Patterns in Enterprise, Advanced UI Design, and Statistics. I feel like those courses will improve my skills and knowledge in the industry. More than that I am currently working on a capstone project in a team of 4
 
 ## My skills include:
 
