@@ -9,23 +9,23 @@ Also, I am currently learning AI fundamentals with a Codecademy course as I feel
 
 ## My skills include:
 
-# Web development: 
+### Web development: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs,vercel,ts,react,nodejs,nextjs,heroku)](https://skillicons.dev)
 
-# Programming Languages:
+### Programming Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
 
-# Software: 
+### Software: 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,powershell)](https://skillicons.dev)
 
-# Databases: 
+### Databases: 
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
-# Other: 
+### Other: 
 
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,figma)](https://skillicons.dev)
 <!--
