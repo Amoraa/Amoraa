@@ -7,7 +7,7 @@ I am working on a group project using Next js, Tailwind, Typescript, MongoDB, an
 
 I am currently learning AI fundamentals with a Codecademy course as I feel that it is the future of the world and I want to keep up
 
-###My skills include:
+## My skills include:
 
 Web development: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs,vercel,ts,react,nodejs,nextjs)](https://skillicons.dev)
