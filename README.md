@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 My name is **Tatiana Kashcheeva**, I am a 6th-semester student in the Honours Bachelor of Technology – Software Development program at Seneca Polytechnic, currently looking for a Co-op job for my WIL semester 
 
 I am a passionate student interested in fields like Data Structures and Algorithms, Frontend and Backend development, UI/UX design.
