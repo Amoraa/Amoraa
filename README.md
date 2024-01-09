@@ -9,11 +9,13 @@ I am currently learning AI fundamentals with a Codecademy course as I feel that 
 
 My skills include:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs)](https://skillicons.dev)
+Web development: [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs,vercel,ts,react, nodejs,nextjs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
+Langueges [![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+Software: [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,powershell)](https://skillicons.dev)
+
+Databases: [![My Skills](https://skillicons.dev/icons?i=postgres,MySQL,mongodb)](https://skillicons.dev)
 <!--
 **Amoraa/Amoraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
