@@ -10,7 +10,9 @@ I am currently learning AI fundamentals with a Codecademy course as I feel that 
 My skills include:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 <!--
 **Amoraa/Amoraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
