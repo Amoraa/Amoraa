@@ -9,7 +9,8 @@ I am currently learning AI fundamentals with a Codecademy course as I feel that 
 
 My skills include:
 
-Web development: [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs,vercel,ts,react, nodejs,nextjs)](https://skillicons.dev)
+Web development: 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs,vercel,ts,react,nodejs,nextjs)](https://skillicons.dev)
 
 Programming Languages: [![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
 
