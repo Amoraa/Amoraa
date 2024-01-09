@@ -11,7 +11,7 @@ I am currently learning AI fundamentals with a Codecademy course as I feel that 
 
 Web development: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs,vercel,ts,react,nodejs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs,vercel,ts,react,nodejs,nextjs,heroku)](https://skillicons.dev)
 
 Programming Languages:
 
