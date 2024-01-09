@@ -5,11 +5,13 @@ I am a passionate student interested in fields like Data Structures and Algorith
 
 I am working on a group project using Next js, Tailwind, Typescript, MongoDB, and Postgres.
 
-I am currently learning AI fundamentals with a Codecademy course
+I am currently learning AI fundamentals with a Codecademy course as I feel that it is the future of the world and I want to keep up
 
 My skills include:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 <!--
 **Amoraa/Amoraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
