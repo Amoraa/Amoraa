@@ -11,7 +11,7 @@ My skills include:
 
 Web development: [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs,vercel,ts,react, nodejs,nextjs)](https://skillicons.dev)
 
-Langueges [![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
+Programming Languages: [![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
 
 Software: [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,powershell)](https://skillicons.dev)
 
