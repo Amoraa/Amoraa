@@ -1,7 +1,7 @@
 # Hi there 👋
 My name is **Tatiana Kashcheeva**, I am a 6th-semester student in the Honours Bachelor of Technology – Software Development program at Seneca Polytechnic, currently looking for a Co-op job for my WIL semester 
 
-I am a passionate student interested in fields like Data Structures and Algorithms, Frontend and Backend development, and UI/UX design. I have a strong academic background, a GPA of 4.0. I am also very creative, result-oriented, and easy to adapt to change. I am ready to face the challenges of learning new skills.
+I am a passionate student interested in fields like Data Structures and Algorithms, Frontend and Backend development, and UI/UX design. I have a strong academic background, and a GPA of 4.0. I am also very creative, result-oriented, and easy to adapt to change. I am ready to face the challenges of learning new skills.
 
 I am **working on** a group project using Next js, Tailwind, Typescript, MongoDB, and Postgres.
 
@@ -11,11 +11,11 @@ Also, I am **currently learning** AI fundamentals with a Codecademy course as I 
 
 ### Web development: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cs,vercel,ts,react,nodejs,nextjs,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vercel,ts,react,nodejs,nextjs,heroku)](https://skillicons.dev)
 
 ### Programming Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,cs)](https://skillicons.dev)
 
 ### Software: 
 
