@@ -1,44 +1,52 @@
-# Hi there 👋
-My name is **Tatiana Kashcheeva**, I am a 7th-semester student in the Honours Bachelor of Technology – Software Development program at Seneca Polytechnic, currently looking for a Co-op job for my WIL semester 
+# Hi, I'm Tatiana Kashcheeva 👋
 
-I am a passionate student interested in fields like Data Structures and Algorithms, Frontend and Backend development, and UI/UX design. I have a strong academic background, and a GPA of 4.0. I am also very creative, result-oriented, and easy to adapt to change. I am ready to face the challenges of learning new skills.
+**Software Engineer** working with **Zoho CRM** and the broader Zoho platform.  
+Honours Bachelor of Technology — **Software Development** (High Honors, **GPA 4.0**) from **Seneca Polytechnic**.
 
-I am **working on** a group project using Next js, Tailwind, Typescript, MongoDB, and Postgres.
+I’m passionate about **Systems Analysis & Design**, **Computer Vision** and **Game Development**. I love turning ideas into clean, accessible products and I adapt quickly to new tools and domains. I am very detail-oriented, which allows me to notice inconsistencies and troubleshoot bugs as they arise.
 
-Also, I am **currently learning** AI fundamentals with a Codecademy course as I feel that it is the future of the world and I want to keep up. When it comes to college I am studying how to make mobile applications with React Native. Other courses that I am taking are Design Patterns in Enterprise, Advanced UI Design, and Statistics. I feel like those courses will improve my skills and knowledge in the industry. More than that I am currently working on a capstone project in a team of 4
+---
 
-## My skills include:
+## What I’m working on
+- A computer-vision drawing app using **MediaPipe** + **Next.js** (gesture-driven, browser-based).
 
-### Web development: 
+## Currently learning
+- **Zoho Creator** (app building, workflows)
+- **OpenCV** (image processing pipelines)
+- **Machine Learning fundamentals** & **CNNs for image tasks**
 
+---
+
+## Skills
+
+### Web development
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vercel,ts,react,nodejs,nextjs,heroku)](https://skillicons.dev)
 
-### Programming Languages:
-
+### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,cs)](https://skillicons.dev)
 
-### Software: 
-
+### Software & tooling
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,powershell)](https://skillicons.dev)
 
-### Databases: 
-
+### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
-### Other: 
-
+### Other
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,figma)](https://skillicons.dev)
-<!--
-**Amoraa/Amoraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Zoho platform:** Zoho CRM · Zoho Flow · Zoho SalesIQ (Codeless ChatBot) · Zoho Forms · Zoho Books · (learning) Zoho Creator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**CV/ML:** OpenCV · ML basics · CNNs for images (classification/segmentation fundamentals)
+
+**Blender**: Comfortable modeling 3D objects, UV unwrapping, texturing, and animating
+---
+
+## A bit more about me
+- Creative, detail-oriented, and collaborative
+- Comfortable with fast change and learning new stacks quickly
+- Strong academic foundation with a focus on practical, user-centered solutions
+
+
+- 📫 Email: tanyakap2003@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/tatiana-kashc/
+
