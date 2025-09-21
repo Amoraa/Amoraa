@@ -47,7 +47,8 @@ I’m passionate about **Systems Analysis & Design**, **Computer Vision** and **
 - Creative, detail-oriented, and collaborative
 - Comfortable with fast change and learning new stacks quickly
 - Strong academic foundation with a focus on practical, user-centered solutions
-- Currently learning French :)
+- Currently learning French
+- Fluent with modern AI tooling (ChatGPT/Copilot) for ideation, code review, test generation, and documentation with privacy-safe workflows.
 
 
 - 📫 Email: tanyakap2003@gmail.com
