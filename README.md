@@ -47,6 +47,7 @@ I’m passionate about **Systems Analysis & Design**, **Computer Vision** and **
 - Creative, detail-oriented, and collaborative
 - Comfortable with fast change and learning new stacks quickly
 - Strong academic foundation with a focus on practical, user-centered solutions
+- Currently learning French :)
 
 
 - 📫 Email: tanyakap2003@gmail.com
