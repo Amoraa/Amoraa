@@ -38,7 +38,8 @@ I’m passionate about **Systems Analysis & Design**, **Computer Vision** and **
 
 **CV/ML:** OpenCV · ML basics · CNNs for images (classification/segmentation fundamentals)
 
-**Blender**: Comfortable modeling 3D objects, UV unwrapping, texturing, and animating
+**Blender:** Comfortable modeling 3D objects, UV unwrapping, texturing, and animating.
+
 ---
 
 ## A bit more about me
