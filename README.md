@@ -14,6 +14,7 @@ I’m passionate about **Systems Analysis & Design**, **Computer Vision** and **
 - **Zoho Creator** (app building, workflows)
 - **OpenCV** (image processing pipelines)
 - **Machine Learning fundamentals** & **CNNs for image tasks**
+- **Game Development**
 
 ---
 
