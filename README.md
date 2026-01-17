@@ -7,9 +7,6 @@ I’m passionate about **Systems Analysis & Design**, **Computer Vision** and **
 
 ---
 
-## What I’m working on
-- A computer-vision drawing app using **MediaPipe** + **Next.js** (gesture-driven, browser-based).
-
 ## Currently learning
 - **Zoho Creator** (app building, workflows)
 - **OpenCV** (image processing pipelines)
